@@ -4,7 +4,7 @@ class Dog
   
     def name
     @fido
-    
+end
 end
   def bark
     puts "woof!"
