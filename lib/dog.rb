@@ -3,7 +3,7 @@ class Dog
    fido = dog
   
     def name
-    @fido
+    fido
     
 end
   def bark
