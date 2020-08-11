@@ -1,5 +1,6 @@
 class Dog
   def name=(fido)
+    dogs_name = fido
   
   def bark
     puts "woof!"
@@ -7,3 +8,4 @@ class Dog
 end
 end
 
+fido = Dog.new
