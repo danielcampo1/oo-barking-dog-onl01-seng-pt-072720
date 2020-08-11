@@ -8,4 +8,5 @@ end
 
 
 Fido = Dog.new
-fidol.name = "Fido"
+Fido.name = "Fido"
+Fido.bark
