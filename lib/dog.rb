@@ -1,5 +1,6 @@
 class Dog
-  name=(dog)
+  name=(dog_name)
+  
 
  def bark
     puts "Woof!"
