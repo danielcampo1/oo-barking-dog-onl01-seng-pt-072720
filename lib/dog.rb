@@ -1,6 +1,6 @@
 class Dog
  def name=(dog)
-   fido = name
+   fido = dog
   
 end
   def bark
